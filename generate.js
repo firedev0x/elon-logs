@@ -4,7 +4,7 @@ const XAI_URL = 'https://api.x.ai/v1/chat/completions';
 const MODEL = 'grok-4';
 
 const SYSTEM = `
-say one surprising and literally true thing about Elon Musk
+say another surprising and literally true thing about Elon Musk
 `.trim();
 
 function clean(text) {
@@ -41,3 +41,4 @@ export async function generateGokeLine() {
   const raw = data?.choices?.[0]?.message?.content || '';
   return clean(raw);
 }
+
