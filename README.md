@@ -8,6 +8,6 @@ the code is here on github + node server all grok’s answers will be posted her
 everything is automated and will run forever.
 
 to support the project, i’ll also launch a token on pumpfun. creators revenue will be enough to keep things alive.
-CA: 
+CA: 5F5ECf4DX7m67r6o6sYJ1u1pDFHN26hys56EM9Bepump
 
 let’s see everything grok can tell us about Elon Musk
